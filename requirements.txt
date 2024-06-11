@@ -1,5 +1,5 @@
-streamlit
-pandas
-langchain-community
-pandasai
-langchain
+streamlit==1.35.0
+pandas==2.2.2
+langchain-community==0.2.4
+pandasai==2.0.24
+
